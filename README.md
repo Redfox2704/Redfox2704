@@ -52,7 +52,7 @@ Saya senang belajar hal-hal baru seputar teknologi, menyelesaikan masalah teknis
 ## 📫 Let's Connect!
 
 - 📧 Email: [mushawwir@email.com](mailto:mushawwir2704@email.com)  
-- 🌐 Website/Blog (opsional): [mushawwir.dev](https://mushawwir.dev)
+- 🌐 Website/Blog (opsional): [[mushawwir.dev](https://redfox2704.github.io/)]([https://mushawwir.dev](https://redfox2704.github.io/))
 
 ---
 
